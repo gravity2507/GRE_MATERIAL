@@ -1,0 +1,12 @@
+gre-prep-app/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── app.js
+│   └── payment.js
+├── assets/
+│   ├── vocab.json
+│   ├── math-questions.json
+│   └── verbal.json
+└── images/      # For any images you might use
